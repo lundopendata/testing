@@ -1,9 +1,4 @@
-{
-  "hints": {
-    "visited_nodes.average": "166.0",
-    "visited_nodes.sum": "166"
-  },
-  "paths": [
+
     {
       "descend": 1.1000022888183594,
       "ascend": 20.00000286102295,
@@ -175,12 +170,3 @@
         "type": "LineString"
       }
     }
-  ],
-  "info": {
-    "took": 43,
-    "copyrights": [
-      "GraphHopper",
-      "OpenStreetMap contributors"
-    ]
-  }
-}
